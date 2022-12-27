@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<a href="https://wakatime.com/@77298fc6-b57e-486c-bec5-2ea798830ccd"><img src="https://wakatime.com/badge/user/77298fc6-b57e-486c-bec5-2ea798830ccd.svg" alt="Total time coded since Aug 27 2022" /></a>
  <hr/>
  <details>
   <summary>Github Statistics...</summary>
@@ -27,11 +27,13 @@ Here are some ideas to get you started:
   <summary>Language Statistics...</summary>
   <p align = "center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
-   
   </p>
+ <p align = "center">
+  <img src="https://wakatime.com/share/@77298fc6-b57e-486c-bec5-2ea798830ccd/60128f1f-0dfd-481f-8aae-0f2ffe169cd0.svg" height="400"/>
+ </p>
 
 
 
-<a href="https://wakatime.com/@77298fc6-b57e-486c-bec5-2ea798830ccd"><img src="https://wakatime.com/badge/user/77298fc6-b57e-486c-bec5-2ea798830ccd.svg" alt="Total time coded since Aug 27 2022" /></a>
 
-<img src="https://wakatime.com/share/@77298fc6-b57e-486c-bec5-2ea798830ccd/60128f1f-0dfd-481f-8aae-0f2ffe169cd0.svg" height="400"/>
+
+

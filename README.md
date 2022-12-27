@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<img src="https://user-images.githubusercontent.com/46063222/209597898-10fe1617-8583-45f8-bf03-71edefec72fb.png"/>
 <!--
 **EdwardLeeData/EdwardLeeData** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

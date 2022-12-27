@@ -31,6 +31,7 @@ Here are some ideas to get you started:
  <p align = "center">
   <img src="https://wakatime.com/share/@77298fc6-b57e-486c-bec5-2ea798830ccd/60128f1f-0dfd-481f-8aae-0f2ffe169cd0.svg" height="400"/>
  </p>
+ </details>
 
 <hr/>
 <p align="center">

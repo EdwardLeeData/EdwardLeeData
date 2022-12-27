@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 <a href="https://wakatime.com/@77298fc6-b57e-486c-bec5-2ea798830ccd"><img src="https://wakatime.com/badge/user/77298fc6-b57e-486c-bec5-2ea798830ccd.svg" alt="Total time coded since Aug 27 2022" /></a>
 
-<img src="https://wakatime.com/share/@77298fc6-b57e-486c-bec5-2ea798830ccd/60128f1f-0dfd-481f-8aae-0f2ffe169cd0.svg" />
+<img src="https://wakatime.com/share/@77298fc6-b57e-486c-bec5-2ea798830ccd/60128f1f-0dfd-481f-8aae-0f2ffe169cd0.svg" height="400"/>

@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://wakatime.com/share/@77298fc6-b57e-486c-bec5-2ea798830ccd/65813652-b09f-4f16-a121-7691ed9e3afe.svg" style="background-color:white;"/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=EdwardLeeData&count_private=true&show_icons=true"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
 
 <a href="https://wakatime.com/@77298fc6-b57e-486c-bec5-2ea798830ccd"><img src="https://wakatime.com/badge/user/77298fc6-b57e-486c-bec5-2ea798830ccd.svg" alt="Total time coded since Aug 27 2022" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@77298fc6-b57e-486c-bec5-2ea798830ccd/4f6dce08-3c33-4676-a807-f47452a4ed9c.png" /></a>

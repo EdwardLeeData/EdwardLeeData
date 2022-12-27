@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api?username=EdwardLeeData&count_private=true&show_icons=true"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
-<img src="https://wakatime.com/badge/user/77298fc6-b57e-486c-bec5-2ea798830ccd/project/1bbe3963-978f-4372-93a6-dd72fc764b9e.svg"(https://wakatime.com/badge/user/77298fc6-b57e-486c-bec5-2ea798830ccd.svg)/>
+
+<a href="https://wakatime.com/@77298fc6-b57e-486c-bec5-2ea798830ccd"><img src="https://wakatime.com/badge/user/77298fc6-b57e-486c-bec5-2ea798830ccd.svg" alt="Total time coded since Aug 27 2022" /></a>

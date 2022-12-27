@@ -35,14 +35,11 @@ Here are some ideas to get you started:
 
 <hr/>
 <p align="center">
-  <a href= "https://github.com/tallguyjenks/">
+  <a href= "https://github.com/EdwardLeeData">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/source-code.png"/>
   </a>
-  <a href= "https://www.linkedin.com/in/bryanjenks/">
+  <a href= "https://www.linkedin.com/in/edwardleedata/">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/linkedin.png"/>
-  </a>
-  <a href= "https://twitter.com/tallguyjenks">
-    <img src="https://img.icons8.com/material-outlined/30/689d6a/twitter.png"/>
   </a>
   <a href= "https://www.bryanjenks.dev">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/geography.png"/>

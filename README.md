@@ -21,9 +21,16 @@ Here are some ideas to get you started:
   <p align = "center">
     <img src="https://github-readme-stats.vercel.app/api?username=EdwardLeeData&count_private=true&show_icons=true"/>
   </p>
-
-
+ /details>
+ 
+ <details>
+  <summary>Language Statistics...</summary>
+  <p align = "center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
+   
+  </p>
+
+
 
 <a href="https://wakatime.com/@77298fc6-b57e-486c-bec5-2ea798830ccd"><img src="https://wakatime.com/badge/user/77298fc6-b57e-486c-bec5-2ea798830ccd.svg" alt="Total time coded since Aug 27 2022" /></a>
 

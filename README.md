@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <p align = "center">
     <img src="https://github-readme-stats.vercel.app/api?username=EdwardLeeData&count_private=true&show_icons=true"/>
   </p>
- /details>
+ </details>
  
  <details>
   <summary>Language Statistics...</summary>

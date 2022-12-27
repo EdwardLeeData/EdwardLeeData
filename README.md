@@ -41,7 +41,7 @@ Here are some ideas to get you started:
   <a href= "https://www.linkedin.com/in/edwardleedata/">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/linkedin.png"/>
   </a>
-  <a href="https://github.com/tallguyjenks/CV/blob/master/CV.pdf">
+  <a href="https://github.com/EdwardLeeData/EdwardLeeData/blob/main/Jaeyun%20Lee%20-%20Software%20Engineer.pdf">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/parse-from-clipboard.png"/>
   </a>
   <a href="mailto:edwardlee.data@gmail.com">

@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 </p>
 
 <hr/>
-<p align="center">
+<p align="center" height="400">
  <img src="https://user-images.githubusercontent.com/46063222/209597898-10fe1617-8583-45f8-bf03-71edefec72fb.png"/>
  <img src="https://user-images.githubusercontent.com/46063222/209598018-ccb66d8a-567d-40d7-a41a-94b91d6a56c3.png"/>
 <img src="https://user-images.githubusercontent.com/46063222/209598138-324eb0fb-b748-4cdd-8ba2-66d1a92fae1b.png"/>
@@ -60,12 +60,6 @@ Here are some ideas to get you started:
  <img src="https://user-images.githubusercontent.com/46063222/209598497-d32d19c4-722d-45d4-a7b5-d72a9c931cad.png"/>
  <img src="https://user-images.githubusercontent.com/46063222/209598581-f7f84f5f-b08c-4723-b48a-e99a2974e858.png"/>
  <img src="https://user-images.githubusercontent.com/46063222/209598624-2eeb16f7-635e-4f16-839d-53f186dfb787.png"/>
-
-
-
-
-
-
  </p>
 
 

@@ -49,13 +49,6 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-</hr>
-<h1>⚡ Checkout a Minimum Viable Product (MVP) I worked on: </h1>
-<a href="https://migrately.azurewebsites.net/products">Click Me</a>
-
-
-
-
 
 <hr/>
 <p align="center">
